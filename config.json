@@ -6,7 +6,7 @@
       "protocol": "trojan",
       "settings": {
         "clients": [
-          { "password": "IMRANBRO" }
+          { "password": "BD-FREE-INTERNET" }
         ],
         "fallbacks": [
           { "dest": 8081 }
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/friendchircle2/nettricts1/imranbro12"
+          "path": "/Telegram/Channel/link/@BD_FREE_INTERNET"
         }
       },
       "sniffing": {
@@ -32,7 +32,7 @@
         "response": {
           "status": 200,
           "headers": { "Content-Type": ["text/plain"] },
-          "body": "imran"
+          "body": "mdjibon2425"
         }
       }
     }
